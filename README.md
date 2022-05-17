@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+The application is created using [Nest](https://github.com/nestjs/nest) framework. The application has a set up bearer token authorization example with defining admin as well as configured CRUD operations for users.
 
 ## Installation
 
